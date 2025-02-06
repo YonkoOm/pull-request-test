@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int main() { printf("splash.c"); }
+int main() { printf("made a change in splash.c"); }
